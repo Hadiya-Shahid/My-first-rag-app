@@ -1,0 +1,8 @@
+faiss-cpu
+sentence-transformers
+streamlit
+pypdf
+python-dotenv
+numpy
+scikit-learn
+requests
